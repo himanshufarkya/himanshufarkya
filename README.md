@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Farkya</h1>
-<h3 align="center">A Coding Enthusiast</h3>
+<h3 align="center">A Web Developer and ML Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshufarkya&label=Profile%20views&color=0e75b6&style=flat" alt="himanshufarkya" /> </p>
 
 - 📫 How to reach me **himanshufarkya5913@gmail.com**
