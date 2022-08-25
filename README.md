@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **himanshufarkya5913@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/drive/u/0/my-drive)(My Resume)
+- 📄 Know about my experiences (https://drive.google.com/drive/u/0/my-drive)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
